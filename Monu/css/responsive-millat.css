@@ -1,0 +1,124 @@
+/* Large Desktop 1200px */
+@media (min-width: 1200px) {
+
+}
+
+/* Normal Desktop 992px */
+@media (min-width: 992px) and (max-width: 1199px) {
+   .single-slider {
+      padding-top: 119px;
+   }
+   .social-slider-icon {
+      margin-bottom: 18px;
+   }
+   .slider-inner h2 {
+      font-size: 37px;
+      margin-bottom: 14px;
+   }
+   .slider-inner p {
+      margin-bottom: 23px;
+   }
+   .slider-area {
+      height: 553px;
+   }
+   .feature-area {
+      margin-top: -120px;
+   }
+}
+
+/* Tablet Desktop 768px */
+@media (min-width: 768px) and (max-width: 991px) {
+   .single-slider {
+      padding-top: 80px;
+   }
+   .social-slider-icon {
+      margin-bottom: 8px;
+   }
+   .slider-inner h2 {
+      font-size: 24px;
+      margin-bottom: 6px;
+   }
+   .slider-inner p {
+      margin-bottom: 14px;
+   }
+   .slider-area {
+      height: 460px;
+   }
+   .feature-area {
+      margin-top: -142px;
+   }
+   .about-photo img {
+      margin-top: 82px;
+   }
+   .subscribe-form input {
+      width: 24%;
+   }
+   .pricing-single{
+      margin-bottom: 60px;
+   }
+
+}
+
+/* extra small mobile 320px */
+@media (max-width: 767px) {
+   .single-slider {
+      padding-top: 80px;
+   }
+   .social-slider-icon {
+      margin-bottom: 8px;
+   }
+   .slider-inner h2 {
+      font-size: 24px;
+      margin-bottom: 6px;
+   }
+   .slider-inner p {
+      margin-bottom: 14px;
+   }
+   .slider-area {
+      height: 460px;
+      background-size: auto;
+   }
+   .feature-area {
+      margin-top: -142px;
+   }
+   .purshase-btn {
+      padding: 9px 22px;
+   }
+   .about-photo img {
+      margin-top: 50px;
+   }
+   .subscribe-form input {
+      width: 100%;
+      margin-bottom: 10px;
+   }
+   .testimonial-wrapper {
+      padding-left: 13px;
+      padding-right: 13px;
+   }
+   .footer-menu nav ul {
+      text-align: left;
+   }
+   .footer-coppyright p {
+      margin-left: 30px;
+   }
+   .footer-menu {
+      margin-top: 10px;
+   }
+   .feature-single {
+      padding: 50px 2px;
+   }
+   .slider-inner p {
+      padding: 0 9px;
+   }
+   .pricing-single{
+      margin-bottom: 60px;
+   }
+   
+}
+
+
+/* Tablet Mobile 480px */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+   
+}
+
